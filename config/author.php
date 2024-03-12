@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'vendor' => 'Ultimate Fosters',
-    'vendor_url' => 'http://ultimatefosters.com',
-    'email' => 'thewebfosters@gmail.com',
+    'vendor' => 'AL',
+    'vendor_url' => 'github.com/alifndaru',
+    'email' => 'alifndaru8@gmail.com',
     'app_version' => '5.40',
     'lic1' => 'aHR0cHM6Ly9sLnVsdGltYXRlZm9zdGVycy5jb20vYXBpL3R5cGVfMQ==',
     'pid' => 1,
